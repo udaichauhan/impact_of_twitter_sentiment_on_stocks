@@ -1,6 +1,8 @@
 # Twitter's Impact on Stock Market Movement
 
-### #R #Python #NLP #AzureCognitiveServices #WebScraping #SentimentAnalysis
+```
+#R #Python #NLP #AzureCognitiveServices #WebScraping #SentimentAnalysis
+```
 
 Project Report - https://www.dropbox.com/s/vrkkkbhnvljueru/Group1_Section2_EXECUTIVE_SUMMARY.pdf?dl=0
 Project Presentation - https://www.dropbox.com/s/zz0qstii308b5wb/Group1_Section2_StockMarketAnalysis.pptx?dl=0
