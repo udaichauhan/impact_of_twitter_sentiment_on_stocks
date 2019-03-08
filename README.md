@@ -6,6 +6,7 @@
 
 Project Report - https://www.dropbox.com/s/vrkkkbhnvljueru/Group1_Section2_EXECUTIVE_SUMMARY.pdf?dl=0
 Project Presentation - https://www.dropbox.com/s/zz0qstii308b5wb/Group1_Section2_StockMarketAnalysis.pptx?dl=0
+Project Video - https://drive.google.com/file/d/1Fijia5xxTKkJG6uve7BU29npWS_Xak-L/view
 
 ## Abstract
 
